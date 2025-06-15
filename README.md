@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--<h1 align="center">Hi there 👋, I'm Sufeen Shaikh</h1>
+<h1 align="center">Hi there 👋, I'm Sufeen Shaikh</h1>
 
 <p align="center">
   <em>A passionate iOS Developer crafting real-world Swift apps with purpose, performance, and polish.</em>
@@ -13,21 +13,21 @@
 #### 📍 CampusSafe – Safety Companion App  
 Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
 **Tech:** Swift, MapKit, CoreLocation, UIKit  
-![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/campussafe.png)
+![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/campusSafe.png)
 
 ---
 
 #### 🦸‍♂️ Marvel Explorer – Comic Universe in Your Pocket  
 Explore Marvel characters, top comics, and upcoming releases with beautiful card layouts.  
 **Tech:** SwiftUI, Combine, Marvel API  
-![Marvel App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/marvel.png)
+![Marvel App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/marvel.png)
 
 ---
 
 #### 🎬 Movie Info App – Discover What’s Trending  
 Stay updated with the latest movies, release dates, and summaries.  
 **Tech:** SwiftUI, TMDB API, AsyncImage  
-![Movie App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/movies.png)
+![Movie App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/movie.png)
 
 ---
 
