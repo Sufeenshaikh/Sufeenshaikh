@@ -13,7 +13,9 @@
 #### 📍 CampusSafe – Safety Companion App  
 Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
 **Tech:** Swift, MapKit, CoreLocation, UIKit  
-<img src="campusSafe.png" alt="campusSafe" width="100%"/>
+<img src="CS.png" alt="CS" width="100%"/>
+<img src="CS1.png" alt="CS1" width="100%"/>
+<img src="CS2.png" alt="CS2" width="100%"/>
 
 ---
 
