@@ -1,16 +1,54 @@
 ## Hi there 👋
 
-<!--
-**Sufeenshaikh/Sufeenshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--<h1 align="center">Hi there 👋, I'm Sufeen Shaikh</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <em>A passionate iOS Developer crafting real-world Swift apps with purpose, performance, and polish.</em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Projects
+
+#### 📍 CampusSafe – Safety Companion App  
+Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
+**Tech:** Swift, MapKit, CoreLocation, UIKit  
+![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/campussafe.png)
+
+---
+
+#### 🦸‍♂️ Marvel Explorer – Comic Universe in Your Pocket  
+Explore Marvel characters, top comics, and upcoming releases with beautiful card layouts.  
+**Tech:** SwiftUI, Combine, Marvel API  
+![Marvel App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/marvel.png)
+
+---
+
+#### 🎬 Movie Info App – Discover What’s Trending  
+Stay updated with the latest movies, release dates, and summaries.  
+**Tech:** SwiftUI, TMDB API, AsyncImage  
+![Movie App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/movies.png)
+
+---
+
+### 💻 About Me
+- 🎓 Currently pursuing MCA  
+- 💡 Loves building apps that solve real problems  
+- 🧠 Always learning and contributing to open source  
+- ✨ Passionate about creating accessible and safe digital experiences  
+
+---
+
+### 📫 Let's Connect
+Feel free to explore my projects and reach out via GitHub!
+
+---
+
+### 🛠️ Tech Stack
+`Swift` `SwiftUI` `UIKit` `MapKit` `CoreLocation` `Firebase` `Git/GitHub` 'Java'
+
+---
+
+<p align="center">
+  Built with ❤️ by Sufeen Shaikh
+</p>
