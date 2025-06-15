@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi there 👋, I'm Sufeen Shaikh</h1>
 
@@ -13,7 +13,7 @@
 #### 📍 CampusSafe – Safety Companion App  
 Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
 **Tech:** Swift, MapKit, CoreLocation, UIKit  
-![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/screenshots/campusSafe.png)
+![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/campusSafe.png)
 
 ---
 
