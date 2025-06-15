@@ -27,7 +27,7 @@ Explore Marvel characters, top comics, and upcoming releases with beautiful card
 #### 🎬 Movie Info App – Discover What’s Trending  
 Stay updated with the latest movies, release dates, and summaries.  
 **Tech:** SwiftUI, TMDB API, AsyncImage  
-<img src="movies.png" alt="movie" width="100%"/>
+<img src="movie.png" alt="movie" width="100%"/>
 
 ---
 
