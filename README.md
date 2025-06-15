@@ -13,21 +13,21 @@
 #### 📍 CampusSafe – Safety Companion App  
 Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
 **Tech:** Swift, MapKit, CoreLocation, UIKit  
-![CampusSafe Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/campusSafe.png)
+<img src="screenshots/campussafe.png" alt="CampusSafe" width="100%"/>
 
 ---
 
 #### 🦸‍♂️ Marvel Explorer – Comic Universe in Your Pocket  
 Explore Marvel characters, top comics, and upcoming releases with beautiful card layouts.  
 **Tech:** SwiftUI, Combine, Marvel API  
-![Marvel App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/marvel.png)
+<img src="screenshots/marvel.png" alt="Marvel App" width="100%"/>
 
 ---
 
 #### 🎬 Movie Info App – Discover What’s Trending  
 Stay updated with the latest movies, release dates, and summaries.  
 **Tech:** SwiftUI, TMDB API, AsyncImage  
-![Movie App Screens](https://github.com/Sufeenshaikh/Sufeenshaikh/blob/main/movie.png)
+<img src="screenshots/movies.png" alt="Movie App" width="100%"/>
 
 ---
 
