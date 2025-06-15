@@ -39,13 +39,26 @@ Stay updated with the latest movies, release dates, and summaries.
 
 ---
 
+### 🧰 iOS Development Skills
+
+- **UI/UX:** Built custom interfaces using **UIKit** & **SwiftUI** – scroll views, tab bars, side menus, dropdowns, and bottom sheets.
+- **Architecture:** Applied **delegate pattern**, **MVVM**, and modular design for scalable and maintainable code.
+- **Data & Networking:** Integrated **REST APIs**, handled **JSON decoding**, and used **Core Data** for persistent local storage.
+- **Media & Maps:** Implemented native video playback with **AVKit**, and added location features via **MapKit**.
+- **Authentication & Forms:** Built secure login, validation logic, and user session flows.
+- **Reusable Components:** Developed UI elements like **tag list views**, **radio buttons**, **alerts**, and custom dropdowns.
+- **Testing & Tooling:** Wrote **unit tests**, used **CocoaPods**, version-controlled projects with **Git & GitHub**.
+- **Web & Views:** Integrated **WKWebView**, activity views, and image compositing utilities.
+
+Hands on experience with **protocols**, **closures**, **extensions**, **Firebase**, **Google Sign-In**, **push notifications**, **Core Animation**, **parallax effects**, **Alamofire**, and modern UX feedback with **activity indicators**.
+
 ### 📫 Let's Connect
 Feel free to explore my projects and reach out via GitHub!
 
 ---
 
 ### 🛠️ Tech Stack
-`Swift` `SwiftUI` `UIKit` `MapKit` `CoreLocation` `Firebase` `Git/GitHub` 'Java'
+`Swift` `SwiftUI` `UIKit` `JAVA` `AI-ML` `Firebase` `Git/GitHub` 
 
 ---
 
