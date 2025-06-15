@@ -31,6 +31,25 @@ Stay updated with the latest movies, release dates, and summaries.
 
 ---
 
+### 🛠️ Internship & Live Projects
+
+#### 📊 Eicher Performance App (Live Project – Internship)
+Contributed to a commercial-grade telematics app for vehicle performance monitoring.  
+- Built **complex UI structures** in UIKit with modular Swift components  
+- Integrated third-party libraries using **CocoaPods**  
+- Delivered a scalable layout that supports multiple data visualizations  
+- 🚀 **5M+ downloads** on the Play Store  
+<img src="eicher.png" alt="Eicher Project" width="100%"/>
+
+---
+
+#### 💼 Additional Live UI Snippets
+Snippets from various real-world projects crafted during my internship and freelance work.  
+Focus on **clean UI**, **Swift best practices**, and **component-based UIKit development**.  
+<img src="other.png" alt="Other UI Projects" width="100%"/>
+
+---
+
 ### 💻 About Me
 - 🎓 Currently pursuing MCA  
 - 💡 Loves building apps that solve real problems  
