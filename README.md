@@ -12,7 +12,7 @@
 
 #### 📍 CampusSafe – Safety Companion App  
 Empowering students with real-time safety tools like SOS alerts, journey tracking, and zone-based alerts.  
-**Tech:** Swift, MapKit, CoreLocation, UIKit  
+**Tech:** Swift,SwiftUI  
 <img src="campus.png" alt="campus" width="100%"/>
 <img src="CS2.png" alt="CS2" width="100%"/>
 
@@ -20,7 +20,7 @@ Empowering students with real-time safety tools like SOS alerts, journey trackin
 
 #### 🦸‍♂️ Marvel Explorer – Comic Universe in Your Pocket  
 Explore Marvel characters, top comics, and upcoming releases with beautiful card layouts.  
-**Tech:** SwiftUI, Combine, Marvel API  
+**Tech:** UIKit, Marvel API  
 <img src="marvel.png" alt="marvel" width="100%"/>
 
 ---
